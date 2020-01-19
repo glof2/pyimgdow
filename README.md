@@ -2,7 +2,7 @@
 Library for scraping images from various sites. It will be updated from time to time, to add support to some sites and file types.
 # How to download?
 To download this library, just download it directly from master-branch.
-# Requeirements
+# Requirements
 -Colorama
 -Requests
 -Grequests
